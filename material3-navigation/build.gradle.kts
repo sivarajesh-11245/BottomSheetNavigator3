@@ -9,7 +9,7 @@ plugins {
 
 android {
     namespace = "com.stefanoq21.material3.navigation"
-    compileSdk = 35
+    compileSdk = 34
 
     defaultConfig {
         minSdk = 21
