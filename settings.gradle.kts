@@ -23,5 +23,5 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "BottomSheetNavigator3"
-include(":app")
+// include(":app")
 include(":material3-navigation")
